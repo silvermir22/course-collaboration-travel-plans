@@ -46,7 +46,7 @@ body {
 
 h2 {
     margin: 0;
-    transform: rotate(-45deg);
+    transform: rotate(-180deg);
     transition: transform 0.5s;
     text-shadow: 0 0 5px #01579b;
 }
@@ -67,3 +67,6 @@ h2 {
     background-color: #090080;
 }
 
+#paris {
+    background-color: #61c23a;
+}
